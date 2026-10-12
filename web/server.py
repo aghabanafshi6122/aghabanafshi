@@ -4,7 +4,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 WEB=os.environ.get('VPNSTAN_WEB','/opt/vpnstan/web')
 DB=os.environ.get('VPNSTAN_DB','/opt/vpnstan/data/vpnstan.db')
 PANEL_PORT=int(os.environ.get('VPNSTAN_PANEL_PORT','3000'))
-USERNAME=os.environ.get('VPNSTAN_USERNAME','admin')
+USERNAME=os.environ.get('VPNSTAN_USERNAME','aghabanafshi')
 PASSWORD=os.environ.get('VPNSTAN_PASSWORD','admin')
 DEFAULT_HOST=os.environ.get('VPNSTAN_NODE_HOST','')
 DEFAULT_PORT=int(os.environ.get('VPNSTAN_NODE_PORT','443'))
