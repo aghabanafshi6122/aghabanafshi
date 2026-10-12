@@ -1,5 +1,5 @@
 
-/* VPNSTAN v26 multilingual UI */
+/* v26 multilingual UI */
 const I18N={
  fa:{dir:'rtl',title:'نمای کلی',sub:'مدیریت سرویس vpnstan · نسخه v26',badgeMaster:'پنل مادر',logout:'خروج',overview:'نمای کلی',clients:'کلاینت‌ها',configs:'کانفیگ‌ها',subscriptions:'اشتراک‌ها',dns:'DNS',settings:'تنظیمات',telegram:'ربات تلگرام',account:'حساب من',admin:'مدیریت پنل‌ها',online:'سرویس آنلاین',login:'ورود به پنل',loginDesc:'مدیریت مستقل کانفیگ‌ها، اشتراک‌ها و پنل‌های فرزند',username:'نام کاربری',password:'رمز عبور'},
  en:{dir:'ltr',title:'Overview',sub:'vpnstan service management · v26',badgeMaster:'Master Panel',logout:'Logout',overview:'Overview',clients:'Clients',configs:'Configs',subscriptions:'Subscriptions',dns:'DNS',settings:'Settings',account:'My Account',admin:'Panel Management',online:'Service Online',login:'Sign in',loginDesc:'Independent management of configs, subscriptions and child panels',username:'Username',password:'Password'}
